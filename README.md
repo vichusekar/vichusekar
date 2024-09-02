@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vignesh Rajasekar</h1>
+<h1 align="center">Hello 👋, I'm Vignesh Rajasekar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 📫 How to reach me **rajasekarvignesh093@gmail.com**
